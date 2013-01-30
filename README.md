@@ -1,11 +1,14 @@
 serialSend: Command line serial terminal. 
 *Part of this code is being reused from cutecom(http://cutecom.sourceforge.net).
 
+DEPENDENCIES:
+- Qt4
 
 INSTALL:
 
 cmake CMakeList.txt
 make
+
 
 RUN:
 
